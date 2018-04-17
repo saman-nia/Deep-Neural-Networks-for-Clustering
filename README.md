@@ -4,5 +4,5 @@ Below you will see a autoencoder embedded 3NG(3 groups of the 20-newsgroups data
 
 ![Alt text](https://github.com/saman-nia/Autoencoder_Clustering/blob/master/Visualizations/2D_Embedded.png?raw=true "Title")
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=MYkdEfa6MCI)
+[![Alt text](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=MYkdEfa6MCI)
 
