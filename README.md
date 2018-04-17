@@ -3,3 +3,6 @@ In this report, we try to optimize an idea which already has been presented unde
 Below you will see a autoencoder embedded 3NG(3 groups of the 20-newsgroups dataset)data into two dimensions:
 
 ![Alt text](https://github.com/saman-nia/Autoencoder_Clustering/blob/master/Visualizations/2D_Embedded.png?raw=true "Title")
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=MYkdEfa6MCI)
+
