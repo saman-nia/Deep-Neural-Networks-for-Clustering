@@ -5,7 +5,7 @@ Below you will see a autoencoder embedded 3NG(3 groups of the 20-newsgroups data
 ![Alt text](https://github.com/saman-nia/Autoencoder_Clustering/blob/master/Visualizations/2D_Embedded.png?raw=true "Title")
 
 
-Here, you can see a visualization of Iris data set in n*n dimension, plesae chlich on it to watch a video on youtube:
+Here, you can see a visualization of Iris data set in n*n dimension that after runnig the kmeans could get 1.00 score for NMI, plesae click on it to watch a video on youtube:
 
 [![Alt text](https://github.com/saman-nia/Autoencoder_Clustering/blob/master/Visualizations/Similarity.png)](https://www.youtube.com/watch?v=MYkdEfa6MCI)
 
