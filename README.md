@@ -7,4 +7,5 @@ Below you will see a autoencoder embedded 3NG(3 groups of the 20-newsgroups data
 
 Here, you can see a visualization of Iris data set in n*n dimension that after runnig the kmeans could get 1.00 score for NMI:
 
-![Alt text](https://github.com/saman-nia/Deep-Neural-Networks-for-Clustering/blob/master/Visualizations/Similarity-Matrix.gif?raw=true "Title")
+![Alt text](https://github.com/saman-nia/Deep-Neural-Networks-for-Clustering/blob/master/Visualizations/Similarity-3D.gif?raw=true "Title")
+![Alt text](https://github.com/saman-nia/Deep-Neural-Networks-for-Clustering/blob/master/Visualizations/Similarity-kmeans.png?raw=true "Title")
